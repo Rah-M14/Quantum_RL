@@ -6,12 +6,12 @@ from tensorflow.keras.layers import Dense, Input
 from tensorflow.keras import Model
 from tensorflow.keras.optimizers import Adam
 
-# setting seeds for result reproducibility. This is not super important
+
 tf.set_random_seed(2212)
 
 class DQNAgent:
     def __init__(self, sess, action_dim, observation_dim):
-        # Force keras to use the session that we have created
+        # using the session that we have created
         K.set_session(sess)
         self.sess = sess
         self.action_dim = action_dim
