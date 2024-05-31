@@ -20,13 +20,13 @@ By comparing these implementations, we aim to elucidate the benefits and challen
 
 **To run the implementations, please clone the repository and run the notebooks on Google Colab (to ensure the dependency mismatch is mitigated).**
 
-- **Our Implementations:** This folder holds the six implementations (2 variants in each notebook) of the three scenarios from the OpenAI Gym.
-- **Our Results:** The Training plots obtained upon running the implementations can be found here.
-- **Baseline Implementations:** This folder hosts the three baseline classical implementations to compare our implementations of the QRL variants.
-- **Baseline Results:** The Training plots obtained upon executing the Baseline Implementations can be found here.
-- **QC Reports:** The Reports detailing the implementations and the methodologies can be found here.
-- **Literature:** For the love of the project, the detailed intuition, gory math, and the foundations can be found here.
-- **Miscellaneous:** Our incomplete (for now) implementations and some crazy experiments can be found here!
+    - **Our Implementations:** This folder holds the six implementations (2 variants in each notebook) of the three scenarios from the OpenAI Gym.
+    - **Our Results:** The Training plots obtained upon running the implementations can be found here.
+    - **Baseline Implementations:** This folder hosts the three baseline classical implementations to compare our implementations of the QRL variants.
+    - **Baseline Results:** The Training plots obtained upon executing the Baseline Implementations can be found here.
+    - **QC Reports:** The Reports detailing the implementations and the methodologies can be found here.
+    - **Literature:** For the love of the project, the detailed intuition, gory math, and the foundations can be found here.
+    - **Miscellaneous:** Our incomplete (for now) implementations and some crazy experiments can be found here!
 
 *Live it and Love it! Quantum Reinforcement Learning!*
 
