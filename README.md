@@ -11,7 +11,7 @@ The Cart Pole environment is a classic control problem where the agent must bala
 
 
 <img src="Cartpole.gif" width="100%" height="100%"/>
-<img src="Mountain_Car.gif" width="51.5%" height="55%"/> <img src="Acrobot.gif" width="47.5%" height="65%"/>
+<img src="Mountain_Car.gif" width="51%" height="55%"/> <img src="Acrobot.gif" width="47.5%" height="65%"/>
 
 
 Our study contributes to the field by implementing and rigorously evaluating the following approaches:
