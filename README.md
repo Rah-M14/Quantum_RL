@@ -10,8 +10,11 @@ In this work, we focus on comparing the baseline implementations of Cart Pole, M
 The Cart Pole environment is a classic control problem where the agent must balance a pole attached to a cart by applying forces to the cart. Mountain Car involves an agent that must drive a car up a steep hill, and Acrobot requires the agent to swing up a two-link robotic arm to a vertical position. These environments are well-suited for studying the efficacy of RL algorithms due to their simplicity and the richness of the control challenges they present.
  -->
 <img src="Cartpole.gif" width="100%" height="100%"/>
-<img src="Mountain_Car.gif" width="50%" height="50%"/>
-<img src="Acrobot.gif" width="50%" height="50%"/>
+
+<p float="middle">
+  <img src="Mountain_Car.gif" width="50%" height="50%"/>
+  <img src="Acrobot.gif" width="50%" height="50%"/>
+</p>
 
 Our study contributes to the field by implementing and rigorously evaluating the following approaches:
 1. **Baseline DQN Implementations:** We implement the standard DQN algorithm for Cart Pole, Mountain Car, and Acrobot using the OpenAI Gym environments. These serve as the benchmarks for our comparison.
