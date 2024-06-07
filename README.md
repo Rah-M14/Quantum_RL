@@ -10,7 +10,7 @@ In this work, we focus on comparing the baseline implementations of Cart Pole, M
 The Cart Pole environment is a classic control problem where the agent must balance a pole attached to a cart by applying forces to the cart. Mountain Car involves an agent that must drive a car up a steep hill, and Acrobot requires the agent to swing up a two-link robotic arm to a vertical position. These environments are well-suited for studying the efficacy of RL algorithms due to their simplicity and the richness of the control challenges they present.
  -->
 <img src="Cartpole.gif" width="100%" height="100%"/>
-<img src="Mountain_Car.gif" width="50%" height="55%"/> <img src="Acrobot.gif" width="49%" height="45%"/>
+<img src="Mountain_Car.gif" width="59%" height="55%"/> <img src="Acrobot.gif" width="40%" height="45%"/>
 
 <!-- 
 
